@@ -26,6 +26,7 @@
   left: 50%;
   transform: translate(-50%, -50%);
   border-radius: 1rem;
+  margin: 125px auto;
 }
 
 .parts {
